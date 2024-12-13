@@ -4,9 +4,9 @@ This script automates the process to enable regular DX11, as newer AMD RX GPUs u
 It only disables DX11NAVI, but keeps DX9NAVI.
 
 I created an EXE file so it is easier to execute the script! =D
-You can download it from the [Releases](https://github.com/deNchj/Disable_DXNAVI/releases/tag/v1) tab.
+You can download it from the ➔ [Releases](https://github.com/deNchj/Disable_DXNAVI/releases/tag/v1) tab.
 
-Full credits to NimeZ for creating the tutorial on how to disable DXNAVI: https://nimez-dxswitch.pages.dev/NzDXSwitch
+Full credits to NimeZ for creating the tutorial on how to disable DXNAVI: [LİNK] (https://docs.google.com/document/d/1GJpJb8ITzgYL0m_iJby7Rkybdfgs8K_XUqKplD-d5Rk/edit?tab=t.0)
 
 
 # DX11NAVI'yi devre dışı bırakmak için komut dosyası
@@ -17,4 +17,4 @@ Sadece DX11NAVI'yi devre dışı bırakıyor, ancak DX9NAVI'yi koruyor.
 Bir EXE dosyası oluşturdum, böylece betiği çalıştırmak daha kolay! =D
 [Son Sürüm](https://github.com/deNchj/Disable_DXNAVI/releases/tag/v1) sekmesinden indirebilirsiniz.
 
-DXNAVI'nin nasıl devre dışı bırakılacağına ilişkin öğreticiyi oluşturduğu için NimeZ'e tam kredi: https://nimez-dxswitch.pages.dev/NzDXSwitch
+DXNAVI'nin nasıl devre dışı bırakılacağına ilişkin öğreticiyi oluşturduğu için atadeNch'e tam kredi: ➔ [LİNK] (https://docs.google.com/document/d/1GJpJb8ITzgYL0m_iJby7Rkybdfgs8K_XUqKplD-d5Rk/edit?tab=t.0)
