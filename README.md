@@ -15,6 +15,6 @@ Bu betik, yeni AMD RX GPU'lar bu özelliği kullandığı için normal DX11'i et
 Sadece DX11NAVI'yi devre dışı bırakıyor, ancak DX9NAVI'yi koruyor.
 
 Bir EXE dosyası oluşturdum, böylece betiği çalıştırmak daha kolay! =D
-Sürümler][Son Sürüm](https://github.com/deNchj/Disable_DXNAVI/releases/tag/v1) sekmesinden indirebilirsiniz.
+Sürümler] [Son Sürüm](https://github.com/deNchj/Disable_DXNAVI/releases/tag/v1) sekmesinden indirebilirsiniz.
 
 DXNAVI'nin nasıl devre dışı bırakılacağına ilişkin öğreticiyi oluşturduğu için NimeZ'e tam kredi: https://nimez-dxswitch.pages.dev/NzDXSwitch
